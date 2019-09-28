@@ -32,6 +32,6 @@ When the first sensor detects the presence of a coin, the total sum is increment
 https://www.youtube.com/watch?v=IcJ4U8hIEmE
 
 ## Resources Used:
-https://www.optimusdigital.ro/ro/ - For the Technical Schemes of the sensors
-http://cs.curs.pub.ro/wiki/pm/ - For LCD instructions
-https://www.youtube.com/watch?v=7ILHtAPY29I - Source of Inspiration
+* https://www.optimusdigital.ro/ro/ - For the Technical Schemes of the sensors
+* http://cs.curs.pub.ro/wiki/pm/ - For LCD instructions
+* https://www.youtube.com/watch?v=7ILHtAPY29I - Source of Inspiration
